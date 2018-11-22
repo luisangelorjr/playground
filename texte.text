@@ -1,0 +1,33 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : cts.com
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : cts.com
+   Link-local IPv6 Address . . . . . : fe80::28b4:9bc3:751f:ce4a%12
+   IPv4 Address. . . . . . . . . . . : 10.213.141.203
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Default Gateway . . . . . . . . . : 10.213.141.129
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Local Area Connection* 11:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2001:0:5ef5:79fd:349a:a581:371e:20ad
+   Link-local IPv6 Address . . . . . : fe80::349a:a581:371e:20ad%15
+   Default Gateway . . . . . . . . . : ::
